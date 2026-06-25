@@ -1,0 +1,13 @@
+
+=================================
+PASSWORD SECURITY AUDIT REPORT
+=================================
+
+Weak Passwords Found : 5
+
+Risk Level : MEDIUM
+
+Recommendations:
+- Use 12+ characters
+- Enable MFA
+- Avoid common passwords
